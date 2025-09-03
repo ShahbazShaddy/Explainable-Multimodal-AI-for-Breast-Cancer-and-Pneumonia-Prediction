@@ -139,7 +139,6 @@ Review the prediction results, visualizations, and explanations
 - **PyTorch**: Deep learning framework for the pneumonia model
 - **scikit-learn**: Machine learning for the cancer model
 - **Streamlit**: Web application framework
-- **SHAP**: Explainability for tabular data
 - **Grad-CAM**: Explainability for image data
 - **Groq API**: Large language model for generating clinical explanations
 - **Pandas**: Data manipulation

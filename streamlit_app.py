@@ -20,7 +20,7 @@ from multimodal_fusion import (
 
 # Set page configuration
 st.set_page_config(
-    page_title="MExplainable Multimodal AI for Breast Cancer and Pneumonia Prediction",
+    page_title="Explainable Multimodal AI for Breast Cancer and Pneumonia Prediction",
     page_icon="🏥",
     layout="wide"
 )
