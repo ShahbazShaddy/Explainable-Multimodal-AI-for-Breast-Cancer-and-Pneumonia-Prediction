@@ -11,7 +11,7 @@ This project leverages both structured clinical data and medical imaging to crea
 - Breast Cancer Diagnosis (using clinical data)
 - Pneumonia Detection (using chest X-ray images)
 
-The system combines predictions from both modalities through late fusion, providing not only accurate predictions but also human-interpretable explanations using techniques like `SHAP` (for tabular data) and `Grad-CAM` (for images).
+The system combines predictions from both modalities through late fusion, providing not only accurate predictions but also human-interpretable explanations using `LLM` and technique like `Grad-CAM`.
 
 ## Repository Structure
 
