@@ -91,15 +91,14 @@ The project includes a Streamlit web application for interactive prediction:
   - Pneumonia probability
   - Combined risk assessment
   - Grad-CAM visualization
-  - Feature importance visualization
   - AI-generated clinical explanation
 
 # Setup and Installation
 
 - Clone the repository.
     ```
-    git clone https://github.com/yourusername/explainable-multimodal-ai.git
-    cd explainable-multimodal-ai
+    git clone https://github.com/ShahbazShaddy/Explainable-Multimodal-AI-for-Breast-Cancer-and-Pneumonia-Prediction.git
+    cd Explainable-Multimodal-AI-for-Breast-Cancer-and-Pneumonia-Prediction
     ```
 - Create and activate a virtual environment
     ```
